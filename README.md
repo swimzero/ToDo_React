@@ -16,8 +16,8 @@ This project was developed using React.js, which I learned through the GDSC KU s
 
 ### Reflections & Future Goals
 
-To be honest, this project doesn’t quite reflect my style, and I didn’t feel a strong connection to it.
+- To be honest, this project doesn’t quite reflect my style, and I didn’t feel a strong connection to it.
 
-I’m not sure if it’s because I’m not particularly interested in front-end development, or if it’s just that the ToDo list project itself didn’t excite me.
+- I’m not sure if it’s because I’m not particularly interested in front-end development, or if it’s just that the ToDo list project itself didn’t excite me.
 
-Moving forward, I want to explore a wider range of projects to discover what truly interests me and helps me grow as a developer.
+- Moving forward, I want to explore a wider range of projects to discover what truly interests me and helps me grow as a developer.
