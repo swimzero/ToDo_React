@@ -1,4 +1,4 @@
-# ToDoList using React!
+# ToDoList (2023.12.21~12.22)
 
 ### Tech Stack: React.js
 
